@@ -1,8 +1,12 @@
-annotate <- function(data, mediaID, vol, title, column_description, object_description, creator,
+annotate <- function(data, mediaID, vol, csv_id_suffix, title, column_description, object_description, creator,
                             contributor, date, temporal, source, relation, rights) {
   
   # derive folder ID from mediaID
   folderID <- sub("^(\\d{5}).*$", "\\1", mediaID)
+  
+  # derive mediaID suffix
+  suffix <- as.character(csv_id_suffix)
+  mediaID_suffixed <- paste0("m", mediaID, "_", suffix)
   
   # derive license URL based on rights string
   license_url <- if (grepl("CC BY", rights, ignore.case = TRUE)) {
@@ -19,7 +23,7 @@ annotate <- function(data, mediaID, vol, title, column_description, object_descr
   metadata <- derive_table_schema(data)
   
   # add Stadt.Geschichte.Basel Data Model
-  metadata$mediaID <- paste0("m", mediaID, "_3")
+  metadata$mediaID <- mediaID_suffixed
   metadata$isPartOf <- list(
     ObjectID = paste0("abb", folderID),
     volume = switch(vol,
@@ -50,7 +54,7 @@ annotate <- function(data, mediaID, vol, title, column_description, object_descr
   metadata$license <- license_url
   metadata$modified <- Sys.time()
   metadata$bibliographicCitation <- paste0(
-    "Stadt.Geschichte.Basel: ", title, ". Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb", folderID, ".html#m" , mediaID, "_3>, letzte Aktualisierung: ", format(Sys.Date(), format = "%d.%m.%Y"), "."
+    "Stadt.Geschichte.Basel: ", title, ". Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb", folderID, ".html#", mediaID_suffixed, ">, letzte Aktualisierung: ", format(Sys.Date(), format = "%d.%m.%Y"), "."
     )
   
   # Build folder path
