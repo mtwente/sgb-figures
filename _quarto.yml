@@ -6,7 +6,7 @@ website:
   favicon: android-chrome-512x512.png
   open-graph: true
   twitter-card: true
-  site-url: https://stadt-geschichte-basel.github.io/sgb-figures/
+  site-url: https://dokumentation.stadtgeschichtebasel.ch/sgb-figures/
   repo-url: https://github.com/stadt-geschichte-basel/sgb-figures/
   issue-url: https://github.com/stadt-geschichte-basel/sgb-figures/issues/new/choose
   repo-actions: [edit, issue]
