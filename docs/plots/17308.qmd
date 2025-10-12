@@ -200,9 +200,9 @@ df <- data.frame(
     "abb17308 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb17308.html))",
     "Bevölkerungsentwicklung und Pestepidemien, 1500–1700",
     "Bis ins 17. Jahrhundert brach in der Stadt ungefähr alle fünfzehn Jahre eine Seuche oder die Pest aus und forderte häufig tausende Opfer. So stieg die Zahl der Stadtbewohnerinnen und -bewohner kaum an. Erst nach der letzten grossen Pestwelle 1666/67 setzte ein kontinuierliches Bevölkerungswachstum ein, dem der Rat im 18. Jahrhundert mit einer restriktiven Einwanderungspolitik entgegenwirkte. Bei der Volkszählung im Jahr 1779 wurden 15 040 Personen erfasst. Für die Zeit davor liegen keine exakten Zahlen vor. Mithilfe von Tauf- und Geburtsregistern, Verzeichnissen der Bürgeraufnahmen, Häuserverzeichnissen, Steuerrödeln und des ‹Pestberichts› des Stadtarztes Felix Platter lassen sich aber Näherungswerte abschätzen.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1497/1798",
     "Frühe Neuzeit",
     "Burghartz, Susanna (Hg.): Aufbrüche, Krisen, Transformationen. 1510–1790. Basel 2024 ([Stadt.Geschichte.Basel 4](https://doi.org/10.21255/sgb-04-283636)).",
@@ -212,7 +212,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Bevölkerungsentwicklung und Pestepidemien, 1500–1700. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb17308.html#m17308_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:19"
+    "2025-10-12 14:46:14"
   ),
   stringsAsFactors = FALSE
 )

@@ -180,9 +180,9 @@ df <- data.frame(
     "abb15429 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb15429.html))",
     "Wohnbevölkerung im Kanton Basel-Stadt nach Religionszugehörigkeit und Herkunft, 1910–1970",
     "Der Anteil der Katholiken und Katholikinnen stieg zwischen 1910 und 1970 von 33 auf 40 Prozent der basel-städtischen Wohnbevölkerung. Bis zum Zweiten Weltkrieg und dann ab 1960 wieder stammten relativ viele von ihnen aus dem Ausland. Der Anteil der Juden und Jüdinnen an der Wohnbevölkerung betrug 1910 knapp zwei, 1970 knapp ein Prozent. Diese Abnahme wird mit der Abwanderung nach 1945 vor allem nach Israel in Zusammenhang gebracht (Erlanger 2005, S. 220–221). Mit zwei bis drei Prozent war der Anteil der als konfessionslos oder als einer anderen Konfession zugehörig registrierten Personen bis in die 1960er-Jahre noch klein. Ihr Anteil stieg bis 1970 auf fünf Prozent und sollte im letzten Drittel des Jahrhunderts markant zu Buche schlagen. Die Kategorien «Inland» und «Ausland» entstammen der Quelle.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1910/1970",
     "20. Jahrhundert",
     "Arni, Caroline (Hg.): Stadt an der Grenze in einer Zeit der Gefährdung. 1912–1966. Basel 2024 ([Stadt.Geschichte.Basel 7](https://doi.org/10.21255/sgb-07-663402)).",
@@ -192,7 +192,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Wohnbevölkerung im Kanton Basel-Stadt nach Religionszugehörigkeit und Herkunft, 1910–1970. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb15429.html#m15429_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:19"
+    "2025-10-12 14:46:14"
   ),
   stringsAsFactors = FALSE
 )

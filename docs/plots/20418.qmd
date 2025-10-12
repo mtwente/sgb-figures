@@ -179,9 +179,9 @@ df <- data.frame(
     "abb20418 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb20418.html))",
     "Exportabgaben und Konsumsteuern, 1690–1798",
     "Die logarithmische Darstellung verdeutlicht das exponentielle Wachstum der Abgaben auf Export- und Handelswaren im Vergleich zu den Konsumabgaben. Seit den 1770er-Jahren übertrafen die Konsumabgaben der Landschaft diejenigen der Stadt.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1689/1797",
     "Frühe Neuzeit",
     "Burghartz, Susanna (Hg.): Aufbrüche, Krisen, Transformationen. 1510–1790. Basel 2024 ([Stadt.Geschichte.Basel 4](https://doi.org/10.21255/sgb-04-283636)).",
@@ -191,7 +191,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Exportabgaben und Konsumsteuern, 1690–1798. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb20418.html#m20418_3>, letzte Aktualisierung: 12.10.2025.",
     "CC BY-SA 4.0",
     "[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)",
-    "2025-10-12 14:24:19"
+    "2025-10-12 14:46:15"
   ),
   stringsAsFactors = FALSE
 )

@@ -194,9 +194,9 @@ df <- data.frame(
     "abb39543 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb39543.html))",
     "Verbannungsurteile, 1376–1455",
     "Die weitaus umfangreichste Urteilskategorie bildeten über den ganzen Zeitraum die Wundtaten, auch Totschläge waren häufig. Demzufolge waren mehr als die Hälfte aller Verbannungen auf Gewalttaten zurückzuführen, obwohl diese im Gegensatz etwa zu Eigentumsdelikten nicht ehrrührig waren (Hagemann 1981, Bd. 1, S. 155f.; Wackernagel 1907-1924, Bd. 2.1, S. 345; Rippmann; Simon-Murscheid 1991, S. 24). Der Frauenanteil unter den Verbannten stieg im Verlauf der untersuchten Zeit tendenziell an, wobei die Täterinnen von Sexualdelikten in der zweiten Hälfte die Täterinnen von Eigentumsdelikten als die grösste Gruppe ablösten (Datengrundlage: Simon-Muscheid 1991, S. 30f.)",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1376/1455",
     "Frühe Neuzeit",
     "Burkart, Lucas (Hg.): Stadt in Verhandlung. 1250–1530. Basel 2024 ([Stadt.Geschichte.Basel 3](https://doi.org/10.21255/sgb-03-345800)).",
@@ -206,7 +206,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Verbannungsurteile, 1376–1455. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb39543.html#m39543_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:22"
+    "2025-10-12 14:46:18"
   ),
   stringsAsFactors = FALSE
 )

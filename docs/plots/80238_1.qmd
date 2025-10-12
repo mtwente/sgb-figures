@@ -217,9 +217,9 @@ df <- data.frame(
     "abb80238 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb80238.html))",
     "Regierungsrat in Basel-Stadt, 1960–2024",
     "Die Basler Regierung war nach 1960 geprägt von relativ stabilen Verhältnissen. Bis zur Jahrtausendwende herrschte eine knappe bürgerliche Mehrheit, linke Parteien besetzten drei von sieben Sitzen. 2004 eroberten die Grünen einen Sitz der FDP, damit dominierte die rot-grüne Linke. Mit der Wahl von 2020 trat eine Pattsituation ein: Die Grünen verloren ihren Sitz an die GLP, die sowohl ökologische wie liberale Interessen vertritt.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1960/2024",
     "20. Jahrhundert",
     "Lengwiler, Martin (Hg.): Auf dem Weg ins Jetzt. Seit 1960. Basel 2025 ([Stadt.Geschichte.Basel 8](https://doi.org/10.21255/sgb-08-796384)).",
@@ -229,7 +229,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Regierungsrat in Basel-Stadt, 1960–2024. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb80238.html#m80238_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:23"
+    "2025-10-12 14:46:18"
   ),
   stringsAsFactors = FALSE
 )

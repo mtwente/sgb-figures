@@ -184,9 +184,9 @@ df <- data.frame(
     "abb26060 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb26060.html))",
     "Beschäftigte nach Wirtschaftszweigen im Kanton Basel-Stadt, 1929–1965",
     "Zehn Jahre sollte der Abstand zwischen den einzelnen Zählungen betragen, was die beiden Weltkriege jedoch verhinderten. Trotz beträchtlicher zeitlicher Abstände untersuchten die Statistiker die erhobenen Daten auf Kontinuitäten und Veränderungen. Bei der Zusammenstellung der vier Zählungen von 1965 fällt auf, dass 1939 – als Folge der Wirtschaftskrise der 1930er Jahre – die Zahl der Beschäftigten tiefer ist als 1929, obschon im selben Zeitraum der Kanton einen Bevölkerungszuwachs erfuhr. Von einer deutlichen Zunahme der Beschäftigten während der Hochkonjunktur hingegen zeugen die Daten von 1955 und 1965. Die Zahl der Beschäftigten in «Bergbau, Steinbrüche, Gruben» ist dermassen klein (zwischen 25 und 10), dass sie in der Grafik nicht erscheint.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1929/1965",
     "20. Jahrhundert",
     "Arni, Caroline (Hg.): Stadt an der Grenze in einer Zeit der Gefährdung. 1912–1966. Basel 2024 ([Stadt.Geschichte.Basel 7](https://doi.org/10.21255/sgb-07-663402)).",
@@ -196,7 +196,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Beschäftigte nach Wirtschaftszweigen im Kanton Basel-Stadt, 1929–1965. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb26060.html#m26060_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:21"
+    "2025-10-12 14:46:16"
   ),
   stringsAsFactors = FALSE
 )

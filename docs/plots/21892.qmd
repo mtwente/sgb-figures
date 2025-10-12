@@ -153,9 +153,9 @@ df <- data.frame(
     "abb21892 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb21892.html))",
     "Öffentliches Personal des Kantons auf 1000 Einwohnerinnen und Einwohner, 1912–1963",
     "Die Zahl der Staatsangestellten und die Staatsausgaben wuchsen zwischen 1912 und 1966 deutlich überproportional im Verhältnis zur Einwohnerschaft.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1911/1963",
     "20. Jahrhundert",
     "Arni, Caroline (Hg.): Stadt an der Grenze in einer Zeit der Gefährdung. 1912–1966. Basel 2024 ([Stadt.Geschichte.Basel 7](https://doi.org/10.21255/sgb-07-663402)).",
@@ -165,7 +165,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Öffentliches Personal des Kantons auf 1000 Einwohnerinnen und Einwohner, 1912–1963. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb21892.html#m21892_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:20"
+    "2025-10-12 14:46:16"
   ),
   stringsAsFactors = FALSE
 )

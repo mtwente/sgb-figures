@@ -222,9 +222,9 @@ df <- data.frame(
     "abb88300 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb88300.html))",
     "Kulturausgaben in Basel-Stadt, 2021",
     "Basels Selbstverständnis als Kulturstadt wird im kantonalen Vergleich der Kultursubventionen deutlich. 2021 betrugen diese in Basel-Stadt 408 Franken pro Kopf, im zweitplatzierten Kanton Genf waren es 117 Franken, im Kanton Zürich 81 Franken.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "2014",
     "21. Jahrhundert",
     "Lengwiler, Martin (Hg.): Auf dem Weg ins Jetzt. Seit 1960. Basel 2025 ([Stadt.Geschichte.Basel 8](https://doi.org/10.21255/sgb-08-796384)).",
@@ -234,7 +234,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Kulturausgaben in Basel-Stadt, 2021. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb88300.html#m88300_2>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:24"
+    "2025-10-12 14:46:20"
   ),
   stringsAsFactors = FALSE
 )
@@ -304,9 +304,9 @@ df <- data.frame(
     "abb88300 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb88300.html))",
     "Kulturausgaben in Basel-Stadt, 2021",
     "Basels Selbstverständnis als Kulturstadt wird in der Betrachtung der Kultursubventionen deutlich. 2021 betrugen diese in Basel-Stadt 408 Franken pro Kopf. Die öffentliche Hand subventionierte verschiedene Kultureinrichtungen; mit Abstand am meisten Gelder erhielten in Basel das Theater, das Sinfonieorchester und die fünf staatlichen Museen.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "2021",
     "21. Jahrhundert",
     "Lengwiler, Martin (Hg.): Auf dem Weg ins Jetzt. Seit 1960. Basel 2025 ([Stadt.Geschichte.Basel 8](https://doi.org/10.21255/sgb-08-796384)).",
@@ -316,7 +316,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Kulturausgaben in Basel-Stadt, 2021. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb88300.html#m88300_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:24"
+    "2025-10-12 14:46:20"
   ),
   stringsAsFactors = FALSE
 )

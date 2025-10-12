@@ -189,9 +189,9 @@ df <- data.frame(
     "abb80380 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb80380.html))",
     "Auflage der Tageszeitungen in der Region Basel, 1966–2020",
     "Die 'National-Zeitung' fusionierte mit den 'Basler Nachrichten' zur 'Basler Zeitung', die 'Basellandschaftliche Zeitung' übernahm die 'Nordschweiz', und die 'AZ Abend-Zeitung' musste den Betrieb einstellen. Die BaZ war über Jahrzehnte die bestverkaufte Zeitung in der Region – allerdings mit stark rückläufigen Verkaufszahlen. Die Digitalisierung hat den Medienkonsum grundlegend verändert.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1966/2020",
     "20. Jahrhundert",
     "Lengwiler, Martin (Hg.): Auf dem Weg ins Jetzt. Seit 1960. Basel 2025 ([Stadt.Geschichte.Basel 8](https://doi.org/10.21255/sgb-08-796384)).",
@@ -201,7 +201,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Auflage der Tageszeitungen in der Region Basel, 1966–2020. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb80380.html#m80380_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:24"
+    "2025-10-12 14:46:19"
   ),
   stringsAsFactors = FALSE
 )

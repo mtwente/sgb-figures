@@ -60,8 +60,12 @@ write_info_page <- function(plot_obj, plot_id, volume, csv_suffix, plot_suffix =
     fig_id <- meta$`dc:isPartOf`$object_id[[1]]
     fig_link <- glue("{fig_id} ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/{fig_id}.html))")
 
-    publisher <- meta$`dc:publisher`[[1]]
-    publisher_link <- glue("[{publisher}](https://www.wikidata.org/wiki/Q122442230)")
+    publisher_name <- meta$`dc:publisher`$`schema:name`
+    publisher_url <- meta$`dc:publisher`$`schema:url`$`@id`
+    publisher_link <- sprintf(
+      "%s <a href='%s' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
+      publisher_name, publisher_url
+    )
 
     # individual authors are not parsed at the moment, listing SGB instead
     creators_str <- publisher_link

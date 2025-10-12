@@ -194,9 +194,9 @@ df <- data.frame(
     "abb81757 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb81757.html))",
     "Anteil an Ausländerinnen und Ausländern im Kanton und in ausgewählten Quartieren, 1960–2020",
     "Zwischen 1960 und 2020 vervierfachte sich der Anteil an Ausländerinnen und Ausländern an der Basler Bevölkerung nahezu. Den höchsten Anteil wies das Kleinbasler Quartier Matthäus auf, von 1960 bis 2020 stieg er dort von 12,7 auf 50,7 Prozent. Ebenfalls überdurchschnittlich war der Anteil in Gundeldingen und St. Johann, beides dichtbebaute Quartiere. Das Quartier Breite war ein traditionelles Arbeiterquartier mit vielen Genossenschaften, die Ausländerinnen und Ausländer zurückhaltend aufnahmen. Den geringsten Anteil hatten das wohlhabende Bruderholz und die Landgemeinde Riehen, in beiden betrug er 2000 etwa dreizehn Prozent. Insbesondere Riehen verzeichnete in den folgenden Jahren einen markanten Anstieg, der mit der gestiegenen Wirtschaftskraft vieler Einwanderer zusammenhing: Zunehmend gut ausgebildete Fachkräfte aus dem Ausland, sogenannte Expats, zogen in Gegenden mit einem höheren Anteil an Einfamilienhäusern.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1960/2020",
     "20. Jahrhundert",
     "Lengwiler, Martin (Hg.): Auf dem Weg ins Jetzt. Seit 1960. Basel 2025 ([Stadt.Geschichte.Basel 8](https://doi.org/10.21255/sgb-08-796384)).",
@@ -206,7 +206,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Anteil an Ausländerinnen und Ausländern im Kanton und in ausgewählten Quartieren, 1960–2020. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb81757.html#m81757_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:24"
+    "2025-10-12 14:46:19"
   ),
   stringsAsFactors = FALSE
 )

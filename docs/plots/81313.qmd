@@ -172,9 +172,9 @@ df <- data.frame(
     "abb81313 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb81313.html))",
     "Nationalitäten von in Basel-Stadt wohnhaften Ausländerinnen und Ausländern, 1960–2020",
     "Zwischen 1960 und 1970 verdoppelte sich die Zahl der Einwohnerinnen und Einwohner mit ausländischer Staatsangehörigkeit nahezu. Besonders häufig waren Saisonniers aus Südeuropa. Italienerinnen und Italiener machten 1970 45 Prozent der ausländischen Bevölkerung und acht Prozent der Gesamteinwohnerzahl von Basel aus. Fortan sank ihr Anteil, während der Rezession mussten viele die Schweiz verlassen, später liessen sich auch einige einbürgern. Am Ende des 20. Jahrhunderts kam ein grosser Teil der Einwanderinnen und Einwanderer aus Osteuropa, 1990 stammten vierzehn Prozent aller in Basel lebenden Ausländerinnen und Ausländer aus Jugoslawien und dreizehn Prozent aus der Türkei. 2002 führte die Schweiz die Personenfreizügigkeit ein und mit der Globalisierung kamen mehr Menschen aus fernen Ländern; die Bevölkerung wurde diverser. 2020 machte die Gruppe 'Übriges Ausland' mit 34 Prozent den grössten Anteil der ausländischen Einwohnerinnen und Einwohner aus, gefolgt von deutschen (22,5 Prozent) und italienischen (zwölf Prozent) Staatsangehörigen.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1960/2020",
     "20. Jahrhundert",
     "Lengwiler, Martin (Hg.): Auf dem Weg ins Jetzt. Seit 1960. Basel 2025 ([Stadt.Geschichte.Basel 8](https://doi.org/10.21255/sgb-08-796384)).",
@@ -184,7 +184,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Nationalitäten von in Basel-Stadt wohnhaften Ausländerinnen und Ausländern, 1960–2020. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb81313.html#m81313_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:24"
+    "2025-10-12 14:46:19"
   ),
   stringsAsFactors = FALSE
 )

@@ -178,9 +178,9 @@ df <- data.frame(
     "abb90383 ([Research Data Platform](https://forschung.stadtgeschichtebasel.ch/items/abb90383.html))",
     "Erwerbstätige nach sozialen Klassen im St. Alban und Klybeck",
     "Um die soziale Zusammensetzung der Wohnviertel zu bestimmen, teilte die Volkszählung von 1910 die Bevölkerung in «Erwerbstätige nach sozialen Klassen» ein. Während im Alban-Viertel die obersten drei sozialen Klassen mehr als ein Drittel ausmachten, waren es im Klybeck knapp ein Fünftel, dafür ungleich mehr gelernte und ungelernte Arbeiter. Obschon die Dienstboten im Alban-Viertel die Anzahl hoher Beamter und Leiter von Grossbetrieben deutlich übertrafen, wurden sie für die Charakterisierung der Stadtteile nicht miteinbezogen: Für die Prägung eines Stadtteils waren sie in den Augen der Statistiker keine relevante Grösse.",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "Nico Görlich <a href='https://orcid.org/0000-0003-3860-1488' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a> / Moritz Twente <a href='https://orcid.org/0009-0005-7187-9774' target='_blank'>![ORCID](../../assets/img/ORCID-iD_icon_vector.svg){width=16}</a>",
-    "[Stadt.Geschichte.Basel](https://www.wikidata.org/wiki/Q122442230)",
+    "Stadt.Geschichte.Basel <a href='https://www.wikidata.org/wiki/Q122442230' target='_blank'>![Wikidata](../../assets/img/wikidata_logo.svg){width=16}</a>",
     "1910",
     "20. Jahrhundert",
     "Kury, Patrick (Hg.): Die beschleunigte Stadt. 1856–1914. Basel 2024 ([Stadt.Geschichte.Basel 6](https://doi.org/10.21255/sgb-06-810743)).",
@@ -190,7 +190,7 @@ df <- data.frame(
     "Stadt.Geschichte.Basel: Erwerbstätige nach sozialen Klassen im St. Alban und Klybeck. Forschungsdatenplattform Stadt.Geschichte.Basel, <https://forschung.stadtgeschichtebasel.ch/items/abb90383.html#m90383_3>, letzte Aktualisierung: 12.10.2025.",
     "Public Domain Mark",
     "[https://creativecommons.org/public-domain/pdm/](https://creativecommons.org/public-domain/pdm/)",
-    "2025-10-12 14:24:25"
+    "2025-10-12 14:46:20"
   ),
   stringsAsFactors = FALSE
 )
